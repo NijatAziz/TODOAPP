@@ -1,0 +1,24 @@
+.task-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px 0;
+  padding: 5px;
+  border: 1px solid #ccc;
+  width: 50%;
+  overflow: scroll;
+}
+.task-item button {
+  width: 50px;
+}
+
+button {
+  background-color: red;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkred;
+}/*# sourceMappingURL=style.css.map */
